@@ -1,4 +1,4 @@
-#Team-Collaboration-Utility-Tool
+# Team-Collaboration-Utility-Tool
 This project, developed during my internship at **Steel Authority India Limited**, is a modern chat application built with React.js and Chat Engine, focusing on intuitive user interfaces and seamless navigation to facilitate team collaboration and project management tasks incorporating strategies.
 
 **This project has:**
